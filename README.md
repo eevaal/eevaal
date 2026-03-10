@@ -8,7 +8,7 @@
   \/_____/ \/_____/ \/_/      \/_/\/_/ \/_/\/_/ \/_____/
 </pre>
 
-**Matthew Noates (eevaal)** *FastAPI + PostgreSQL backend developer | Arch Linux Enthusiast | UI/UX Enjoyer*
+**Matthew Noates (eevaal)** *FastAPI + Vue.js fullstack developer | Arch Linux Enthusiast | UI/UX Enjoyer*
 
 [![Python](https://img.shields.io/badge/Python-3.12+-blue.svg?logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
@@ -22,11 +22,11 @@
 
 ## 👨‍💻 Обо мне
 
-Привет! 👋 Я бэкенд-разработчик, увлеченный созданием быстрых, надежных API и экосистем для умных устройств. Пишу чистый код на Python, ценю минимализм в архитектуре и обожаю эстетику Liquid Glass в интерфейсах.
+Привет! 👋 Я начинающий фуллстек-разработчик, увлеченный созданием быстрых, надежных API и экосистем для умных устройств. Пишу чистый код на Python, ценю минимализм в архитектуре и обожаю эстетику Liquid Glass в интерфейсах.
 
 - 🎓 Студент
 - 🐧 **ОС:** Пишу код на macOS (MacBook Air M3) и EndeavourOS + Hyprland.
-- 💡 **Интересы:** Backend-архитектура, UI/UX дизайн в Figma.
+- 💡 **Интересы:** Backend, немного Frontend, UI/UX дизайн в Figma.
 - 🎯 **Цель:** Развитие собственных IT-продуктов и релокация в США 🇺🇸.
 
 ---
@@ -47,7 +47,7 @@
 ## 🛠 Технологический стек
 
 * **Backend:** Python 3.12, FastAPI, SQLAlchemy, Pydantic, Uvicorn, PostgreSQL
-* **Frontend:** HTML5, TailwindCSS, JavaScript, Jinja2
+* **Frontend:** Vue.js
 * **Инфраструктура & DevOps:** Docker, Docker Compose, `uv` (Fast Package Manager), Git, Linux
 * **Дизайн:** Figma (Liquid Glass aesthetic)
 
