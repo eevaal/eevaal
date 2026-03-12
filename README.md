@@ -8,13 +8,12 @@
   \/_____/ \/_____/ \/_/      \/_/\/_/ \/_/\/_/ \/_____/
 </pre>
 
-**Matthew Noates (eevaal)** *FastAPI + Vue.js fullstack developer | Arch Linux Enthusiast | UI/UX Enjoyer*
+**Matthew Noates (eevaal)** *FastAPI backend developer | Arch Linux Enthusiast | UI/UX Enjoyer*
 
 [![Python](https://img.shields.io/badge/Python-3.12+-blue.svg?logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://postgresql.org)
 [![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED?logo=docker&logoColor=white)](https://docker.com)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
 
 </div>
 
@@ -22,11 +21,11 @@
 
 ## 👨‍💻 Обо мне
 
-Привет! 👋 Я начинающий фуллстек-разработчик, увлеченный созданием быстрых, надежных API и экосистем для умных устройств. Пишу чистый код на Python, ценю минимализм в архитектуре и обожаю эстетику Liquid Glass в интерфейсах.
+Привет! 👋 Я начинающий backend-разработчик, увлеченный созданием быстрых, надежных API и экосистем для умных устройств. Пишу чистый код на Python, ценю минимализм в архитектуре и обожаю эстетику Liquid Glass в интерфейсах.
 
 - 🎓 Студент
 - 🐧 **ОС:** Пишу код на macOS (MacBook Air M3) и EndeavourOS + Hyprland.
-- 💡 **Интересы:** Backend, немного Frontend, UI/UX дизайн в Figma.
+- 💡 **Интересы:** Backend, UI/UX дизайн в Figma.
 - 🎯 **Цель:** Развитие собственных IT-продуктов и релокация в США 🇺🇸.
 
 ---
