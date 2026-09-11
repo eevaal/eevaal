@@ -17,6 +17,13 @@
 
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com/eevaal/eevaal/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com/eevaal/eevaal/output/github-snake.svg">
+  <img alt="GitHub Snake Animation" src="https://githubusercontent.com/eevaal/eevaal/output/github-snake.svg">
+</picture>
+
+
 ---
 
 ## 👨‍💻 About Me
