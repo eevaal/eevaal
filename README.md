@@ -8,7 +8,7 @@
   \/_____/ \/_____/ \/_/      \/_/\/_/ \/_/\/_/ \/_____/
 </pre>
 
-**Matthew Noates (eevaal)** *FastAPI backend developer | Arch Linux Enthusiast | UI/UX Enjoyer*
+**Ruslan Sotnikov (eevaal)** *FastAPI backend developer | macOS | Apple fan*
 
 [![Python](https://img.shields.io/badge/Python-3.13-blue.svg?logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
