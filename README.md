@@ -8,7 +8,7 @@
   \/_____/ \/_____/ \/_/      \/_/\/_/ \/_/\/_/ \/_____/
 </pre>
 
-**Ruslan Sotnikov (eevaal)** *FastAPI backend developer | macOS | Apple fan*
+**Ruslan Sotnikov (eevaal)** *Backend Engineer | FastAPI Specialist | macOS Developer*
 
 [![Python](https://img.shields.io/badge/Python-3.13-blue.svg?logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
@@ -19,38 +19,27 @@
 
 ---
 
-## 👨‍💻 Обо мне
+## 👨‍💻 About Me
 
-Привет! 👋 Я начинающий backend-разработчик, увлеченный созданием быстрых, надежных API и экосистем для умных устройств. Пишу чистый код на Python, ценю минимализм в архитектуре и обожаю эстетику Liquid Glass в интерфейсах.
+I'm a backend engineer passionate about building fast, reliable, and scalable APIs. Focused on crafting robust solutions using modern Python frameworks and best practices in software architecture.
 
-- 🎓 Студент
-- 🐧 **ОС:** Пишу код на macOS (MacBook Air M3) и EndeavourOS + Hyprland.
-- 💡 **Интересы:** Backend, UI/UX дизайн в Figma.
-- 🎯 **Цель:** Развитие собственных IT-продуктов и релокация в США 🇺🇸.
-
----
-
-## 🚀 Мои главные проекты
-
-### 📖 OmiLab
----
-###  🌐dash.
----
-### ⚙️ FastPoint
----
-### 🔣 ehash
----
-
-## 🛠 Технологический стек
-
-* **Backend:** Python 3.12, FastAPI, SQLAlchemy, Pydantic, Uvicorn, PostgreSQL
-* **Frontend:** Vue.js
-* **Инфраструктура & DevOps:** Docker, Docker Compose, `uv` (Fast Package Manager), Git, Linux
-* **Дизайн:** Figma (Liquid Glass aesthetic)
+- 🎓 Computer Science Student
+- 💻 **Environment:** Developing on macOS (MacBook Air M3)
+- 🔧 **Expertise:** Backend development, API design, database architecture
+- 🎯 **Goal:** Building innovative IT products and expanding internationally
 
 ---
 
-## 📫 Связь со мной
+## 🛠 Technology Stack
+
+* **Backend:** Python 3.13, FastAPI, SQLAlchemy, Pydantic, Uvicorn
+* **Databases:** PostgreSQL
+* **DevOps & Infrastructure:** Docker, Docker Compose, `uv` (Fast Package Manager), Git
+* **Frontend:** Vue.js (for full-stack projects)
+
+---
+
+## 📫 Get in Touch
 
 <div align="center">
   <a href="mailto:realnoates@icloud.com"><img src="https://img.shields.io/badge/Email-realnoates%40icloud.com-black?style=flat&logo=apple&logoColor=white" alt="Email" /></a>
