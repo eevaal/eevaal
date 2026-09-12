@@ -32,6 +32,12 @@ I'm a backend engineer passionate about building fast, reliable, and scalable AP
 
 ---
 
+<div align="center">
+  <a href="https://leetcode.com/u/eevaal">
+    <image src="https://leetcard.jacoblin.cool/eevaal?theme=dark&font=Ubuntu&ext=contest" alt="LeetCodeStats" />
+  </a>
+</div>
+
 ## 🛠 Technology Stack
 
 * **Backend:** Python 3.13, FastAPI, SQLAlchemy, Pydantic, Uvicorn
