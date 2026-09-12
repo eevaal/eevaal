@@ -7,8 +7,7 @@
 ███▄▄    ███▄▄     ███  ███  ███  ███ ███  ███ ███      
 ███      ███       ███▄▄███  ███▀▀███ ███▀▀███ ███      
 ▀███████ ▀███████   ▀████▀   ███  ███ ███  ███ ████████ 
-                                                        
-                                                                                                                                 
+  
 </pre>
 
 **Ruslan Sotnikov (eevaal)** *Backend Engineer | FastAPI Specialist | macOS Developer*
