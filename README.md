@@ -1,6 +1,6 @@
 <div align="center">
 
-<pre>
+<pre style="overflow: hidden;  font-size: 11; line-height: 1.1;">
                                                         
  ▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄ ▄▄▄▄  ▄▄▄▄   ▄▄▄▄     ▄▄▄▄   ▄▄▄      
 ███▀▀▀▀▀ ███▀▀▀▀▀ ▀███  ███▀ ▄██▀▀██▄ ▄██▀▀██▄ ███      
