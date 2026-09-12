@@ -12,10 +12,9 @@
 
 **Ruslan Sotnikov (eevaal)** *Backend Engineer | FastAPI Specialist | macOS Developer*
 
-[![Python](https://img.shields.io/badge/Python-3.14-blue.svg?logo=python&logoColor=white)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED?logo=docker&logoColor=white)](https://docker.com)
+<p align="center">
+  <image src="https://skillicons.dev/icons?i=py,fastapi,postgres,docker,kubernetes,redis,rabbitmq,vscode,git"/>
+</p>
 
 </div>
 
