@@ -19,6 +19,22 @@
 
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eevaal/eevaal/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eevaal/eevaal/output/github-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/eevaal/eevaal/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://leetcode.com/u/eevaal/">
+    <img src="https://leetcard.jacoblin.cool/eevaal?theme=dark&font=Ubuntu" alt="LeetCode Stats" />
+  </a>
+</div>
+
 ---
 
 ## 👨‍💻 About Me
@@ -31,12 +47,6 @@ I'm a backend engineer passionate about building fast, reliable, and scalable AP
 - 🎯 **Goal:** Building innovative IT products and expanding internationally
 
 ---
-
-<div align="center">
-  <a href="https://leetcode.com/u/eevaal">
-    <image src="https://leetcard.jacoblin.cool/eevaal?theme=dark&font=Ubuntu&ext=contest" alt="LeetCodeStats" />
-  </a>
-</div>
 
 ## 🛠 Technology Stack
 
